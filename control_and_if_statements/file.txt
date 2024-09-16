@@ -16,6 +16,7 @@ END;
 
 
 /************************ Example 2 *************************/
+
 DECLARE
   v_number NUMBER       := 5;
   v_name   VARCHAR2(30) := 'Adam';

@@ -13,7 +13,8 @@ BEGIN
     dbms_output.put_line('I am equal or greater than 30');
   END IF;
 END;
- 
+
+
 /************************ Example 2 *************************/
 DECLARE
   v_number NUMBER       := 5;

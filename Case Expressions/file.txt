@@ -11,7 +11,8 @@ BEGIN
   dbms_output.put_line('Your salary increase is : '|| v_salary_increase);
 END;
 /************************************************************/
- 
+
+
 /****************** Searched Case Expression ****************/
 DECLARE
   v_job_code        VARCHAR2(10) := 'IT_PROG';
